@@ -1,8 +1,8 @@
 export default function Header(){
 return(
-    <header className="text-center">
+    <header className="bg-black text-xl text-center text-white ">
         <h1>
-            Jogo da velha 2.0
+            Jogo da velha
         </h1>
     </header>
 )
